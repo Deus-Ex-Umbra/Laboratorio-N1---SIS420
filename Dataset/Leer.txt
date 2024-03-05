@@ -1,0 +1,44 @@
+Universitario: Aparicio Llanquipacha Gabriel
+Nombre del Dataset: Quality Prediction in a Mining Process
+URL del Dataset: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
+Temática del Dataset: Predicción de la calidad en un proceso minero utilizando datos operativos del proceso.
+Variables de Entrada:
+Date: Fecha y hora del registro.
+% Iron Feed: Porcentaje de hierro en la alimentación.
+% Silica Feed: Porcentaje de sílice en la alimentación.
+Starch Flow: Flujo de almidón.
+Amina Flow: Flujo de amina.
+Ore Pulp Flow: Flujo de pulpa de mineral.
+Ore Pulp pH: pH de la pulpa de mineral.
+Ore Pulp Density: Densidad de la pulpa de mineral.
+Flotation Column 01 Air Flow: Flujo de aire en la columna de flotación 01.
+Flotation Column 02 Air Flow: Flujo de aire en la columna de flotación 02.
+Flotation Column 03 Air Flow: Flujo de aire en la columna de flotación 03.
+Flotation Column 04 Air Flow: Flujo de aire en la columna de flotación 04.
+Flotation Column 05 Air Flow: Flujo de aire en la columna de flotación 05.
+Flotation Column 06 Air Flow: Flujo de aire en la columna de flotación 06.
+Flotation Column 07 Air Flow: Flujo de aire en la columna de flotación 07.
+Flotation Column 01 Level: Nivel en la columna de flotación 01.
+Flotation Column 02 Level: Nivel en la columna de flotación 02.
+Flotation Column 03 Level: Nivel en la columna de flotación 03.
+Flotation Column 04 Level: Nivel en la columna de flotación 04.
+Flotation Column 05 Level: Nivel en la columna de flotación 05.
+Flotation Column 06 Level: Nivel en la columna de flotación 06.
+Flotation Column 07 Level: Nivel en la columna de flotación 07.
+% Iron Concentrate: Porcentaje de hierro en el concentrado.
+Variable de Salida:
+% Silica Concentrate: Porcentaje de sílice en el concentrado.
+
+Descripción de las variables (resumen):
+x0: Índice único para cada registro en el dataset. - Unique index for each record in the dataset.
+% Iron Feed: Concentración de hierro en el mineral de alimentación, expresada como un porcentaje. - Iron concentration in the feed mineral, expressed as a percentage.
+% Silica Feed: Concentración de sílice en el mineral de alimentación, expresada como un porcentaje. - Silica concentration in the feed mineral, expressed as a percentage.
+Starch Flow: Flujo de almidón, posiblemente un reactivo químico utilizado en el proceso. - Starch flow, possibly a chemical reagent used in the process.
+Amina Flow: Flujo de amina, otro posible reactivo químico utilizado en el proceso. - Amina flow, another possible chemical reagent used in the process.
+Ore Pulp Flow: Flujo de pulpa de mineral, que puede referirse a la cantidad de mineral en la mezcla de agua y reactivos químicos. - Ore pulp flow, which may refer to the amount of mineral in the mixture of water and chemical reagents.
+Ore Pulp pH: Nivel de pH de la pulpa de mineral, que puede afectar el proceso de flotación. - pH level of the ore pulp, which may affect the flotation process.
+Ore Pulp Density: Densidad de la pulpa de mineral, que también puede ser un factor importante en el proceso. - Density of the ore pulp, which may also be an important factor in the process.
+Flotation Column 01-07 Air Flow: Flujos de aire en las columnas de flotación, que son utilizados para separar minerales valiosos de los no valiosos mediante el proceso de flotación. - Air flows in the flotation columns, which are used to separate valuable minerals from non-valuable ones through the flotation process.
+Flotation Column 01-07 Level: Niveles de las columnas de flotación, que pueden ser indicadores del volumen de mineral en cada columna. - Levels of the flotation columns, which can be indicators of the volume of ore in each column.
+% Iron Concentrate: Concentración de hierro en el concentrado final obtenido después del proceso de flotación, expresada como un porcentaje. - Iron concentration in the final concentrate obtained after the flotation process, expressed as a percentage.
+% Silica Concentrate: Concentración de sílice en el concentrado final obtenido después del proceso de flotación, expresada como un porcentaje. - Silica concentration in the final concentrate obtained after the flotation process, expressed as a percentage.
